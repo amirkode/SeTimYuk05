@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTransparentWhite">#cccccc</color>
+    <color name="dotColor">#6b6b64</color>
+    <color name="dotColorCurrent">#2b2b28</color>
+
+    <color name="ligtBackground">#ffffd6</color>
+    <color name="darkBackground">#727234</color>
+</resources>
